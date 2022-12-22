@@ -46,15 +46,40 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="150" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="150" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="150" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" title="Firebase" alt="Js X" width="80" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" title="Firebase" alt="Js X" width="60" height="50"/>&nbsp;
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--H6L3JDpH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a" title="Expo"  alt="Gatsby" width="150" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" title="Axios"  alt="MySQL" width="150" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="150" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" title="AWS" alt="AWS" width="150" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" title="AWS" alt="AWS" width="150" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="150" height="50"/>
   <img src="https://sofacto.force.com/support/servlet/rtaImage?eid=ka008000000dkuz&feoid=00N1p00000JI0JP&refid=0EM08000007PCaC" title="Cloudinary" **alt="Git" width="150" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cloudinary_logo_blue_0720_2x.png" title="Cloudinary" **alt="Git" width="150" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cloudinary_logo_blue_0720_2x.png" title="Cloudinary" **alt="Git" width="150" height="40"/>
+  </div>
   
+ ---
+ <h1>
+  WEB PROJECTS
+  <img src="https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif" width="30px"/>
+</h1>
+<div>
+<img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.18169-9/22154536_428142410914050_194283887420750436_n.png?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=fAfyYo1xcYoAX-jEeMr&_nc_ht=scontent-cdg2-1.xx&oh=00_AfDG23ygkazwdhyPZe4bRmO8FCVhD6J1aoaes0ciCjmERA&oe=63CBA71F" width="100px" height="70px"/>
+<img src="https://cdt29.media.tourinsoft.eu/upload/SIXT-LOGO-2.jpg?width=980" width="100px" height="70px"/>
+  <img src="https://www.numerama.com/wp-content/uploads/2020/08/vinted-app.jpg" width="100px" height="70px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg" width="100px" height="70px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tripadvisor-logo-circle-green-vertical-lockup-registered-rgb.svg" width="100px" height="70px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png" width="100px" height="70px"/>
+   </div>
    
-</div>
+ ---
+ <h1>
+  MOBILE PROJECTS
+  <img src="https://media.giphy.com/media/hp3pbaLgIec1hjmL0M/giphy.gif" width="30px"/>
+</h1>
+<div>
+<img src="https://a0.muscache.com/airbnb/static/logos/belo-400x400.png" width="100px" height="90px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" width="100px" height="70px"/>
+   </div>
+
+ 
+ 
 
