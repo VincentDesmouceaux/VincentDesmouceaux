@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="150" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" title="Firebase" alt="Js X" width="60" height="50"/>&nbsp;
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--H6L3JDpH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a" title="Expo"  alt="Gatsby" width="150" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" title="Axios"  alt="MySQL" width="150" height="30"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" title="Axios"  alt="MySQL" width="150" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="150" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" title="AWS" alt="AWS" width="150" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="150" height="50"/>
