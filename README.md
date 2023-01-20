@@ -73,6 +73,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg" width="100px" height="70px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tripadvisor-logo-circle-green-vertical-lockup-registered-rgb.svg" width="100px" height="70px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png" width="100px" height="70px"/>
+   <img src="https://cwa.roocdn.com/_next/static/social_media.cac4f21a.png" width="100px" height="70px"/>
    </div>
    
  ---
