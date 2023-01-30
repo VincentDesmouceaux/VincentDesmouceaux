@@ -67,7 +67,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif" width="30px"/>
 </h1>
 <div>
-<img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.18169-9/22154536_428142410914050_194283887420750436_n.png?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=fAfyYo1xcYoAX-jEeMr&_nc_ht=scontent-cdg2-1.xx&oh=00_AfDG23ygkazwdhyPZe4bRmO8FCVhD6J1aoaes0ciCjmERA&oe=63CBA71F" width="100px" height="70px"/>
+<img src="https://www.blockchaingamer.biz/wp-content/uploads/2018/04/rawg-logo_750x430-450x300.jpg" width="100px" height="70px"/>
 <img src="https://cdt29.media.tourinsoft.eu/upload/SIXT-LOGO-2.jpg?width=980" width="100px" height="70px"/>
   <img src="https://www.numerama.com/wp-content/uploads/2020/08/vinted-app.jpg" width="100px" height="70px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg" width="100px" height="70px"/>
