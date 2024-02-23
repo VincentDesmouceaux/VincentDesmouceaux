@@ -47,6 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" title="Android Studio" alt="Spring" width="150" height="50"/>&nbsp;
   <img src="https://logos-download.com/wp-content/uploads/2020/06/Postman_Logo.png" title="Postman" alt="Material UI" width="150" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/fr/4/45/MongoDB-Logo.svg" title="Mongo DB" alt="Flutter" width="150" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PhpMyAdmin_logo_2010_hidef.svg/1200px-PhpMyAdmin_logo_2010_hidef.svg.png" title="phMyAdmin" alt="Flutter" width="150" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="150" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="150" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="150" height="50"/>&nbsp;
@@ -54,7 +55,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" title="Firebase" alt="Js X" width="60" height="50"/>&nbsp;
    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png" title="vue.js" alt=vue.js" width="60" height="50"/>&nbsp;
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--H6L3JDpH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a" title="Expo"  alt="Gatsby" width="150" height="50"/>&nbsp;
-  <img src="https://png2.cleanpng.com/sh/6e776aab3cfa0c6a2be83acdc0baa551/L0KzQYm3V8EzN6Z1eZH0aYP2gLBuTgBzd5dqiAVyb37kfH73mgRpd58yiOR4Z4Lkfb7skr1kd551jeZucj3zgrFukvFudZpzReJEdHjyfn7zjBdwNZV0j9D1b3HnPYbpVMc4OmZoTKk8N0e3Poe6VMAzP2U6Sac8MUSzSIqBWMI6OWgziNDw/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c473774.6340274515314089882917.png" title="Axios"  alt="MySQL" width="150" height="20"/>&nbsp;
+  <img src="https://png2.cleanpng.com/sh/6e776aab3cfa0c6a2be83acdc0baa551/L0KzQYm3V8EzN6Z1eZH0aYP2gLBuTgBzd5dqiAVyb37kfH73mgRpd58yiOR4Z4Lkfb7skr1kd551jeZucj3zgrFukvFudZpzReJEdHjyfn7zjBdwNZV0j9D1b3HnPYbpVMc4OmZoTKk8N0e3Poe6VMAzP2U6Sac8MUSzSIqBWMI6OWgziNDw/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c473774.6340274515314089882917.png" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" title="Axios"  alt="MySQL" width="150" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="150" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" title="AWS" alt="AWS" width="150" height="40"/>&nbsp;
