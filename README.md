@@ -58,7 +58,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <!-- New images -->
   <img src="https://ludovicwyffels.dev/blog/2019-08_pm2/cover_hu74664c7dac500caeb872530274db0e57_22469_1200x0_resize_q75_box.jpg" title="PM2" alt="PM2" width="150" height="150"/>&nbsp;
   <img src="https://i0.wp.com/www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png?w=500&ssl=1" title="Django" alt="Django" width="150" height="150"/>&nbsp;
-  <img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" title="Flask" alt="Flask" width="150" height="50"/>&nbsp;
+  <img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" title="Flask" alt="Flask" width="150" height="150"/>&nbsp;
 </div>
 
 ---
