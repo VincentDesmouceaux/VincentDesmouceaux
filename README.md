@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" title="JSX" alt="JSX" width="60" height="50"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png" title="Vue.js" alt="Vue.js" width="60" height="50"/>&nbsp;
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--H6L3JDpH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a" title="Expo" alt="Expo" width="150" height="50"/>&nbsp;
-  <img src="https://png2.cleanpng.com/sh/6e776aab3cfa0c6a2be83acdc0baa551/L0KzQYm3V8EzN6Z1eZH0aYP2gLBuTgBzd5dqiAVyb37kfH73mgRpd58yiOR4Z4Lkfb7skr1kd551jeZucj3zgrFukvFudZpzReJEdHjyfn7zjBdwNZV0j9D1b3HnPYbpVMc4OmZoTKk8N0e3Poe6VMAzP2U6Sac8MUSzSIqBWMI6OWgziNDw/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c473774.6340274515314089882917.png" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" title="Axios" alt="Axios" width="150" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="150" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" title="Netlify" alt="Netlify" width="150" height="40"/>&nbsp;
@@ -56,8 +56,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://sofacto.force.com/support/servlet/rtaImage?eid=ka008000000dkuz&feoid=00N1p00000JI0JP&refid=0EM08000007PCaC" title="Cloudinary" alt="Cloudinary" width="150" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cloudinary_logo_blue_0720_2x.png" title="Cloudinary" alt="Cloudinary" width="150" height="40"/>
   <!-- New images -->
-  <img src="https://ludovicwyffels.dev/blog/2019-08_pm2/cover_hu74664c7dac500caeb872530274db0e57_22469_1200x0_resize_q75_box.jpg" title="PM2" alt="PM2" width="150" height="50"/>&nbsp;
-  <img src="https://i0.wp.com/www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png?w=500&ssl=1" title="Django" alt="Django" width="150" height="50"/>&nbsp;
+  <img src="https://ludovicwyffels.dev/blog/2019-08_pm2/cover_hu74664c7dac500caeb872530274db0e57_22469_1200x0_resize_q75_box.jpg" title="PM2" alt="PM2" width="150" height="150"/>&nbsp;
+  <img src="https://i0.wp.com/www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png?w=500&ssl=1" title="Django" alt="Django" width="150" height="150"/>&nbsp;
   <img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" title="Flask" alt="Flask" width="150" height="50"/>&nbsp;
 </div>
 
