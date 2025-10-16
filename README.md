@@ -47,13 +47,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="150" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" title="JSX" alt="JSX" width="60" height="50"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png" title="Vue.js" alt="Vue.js" width="60" height="50"/>&nbsp;
-  <img src="https://blixtdev.com/content/images/size/w2000/2022/10/exp.png"/>&nbsp;
+  <img src="https://blixtdev.com/content/images/size/w2000/2022/10/exp.png" width="150" height="150"/>&nbsp;
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" title="Axios" alt="Axios" width="150" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="150" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" title="Netlify" alt="Netlify" width="150" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="150" height="50"/>
-  <img src="https://sofacto.force.com/support/servlet/rtaImage?eid=ka008000000dkuz&feoid=00N1p00000JI0JP&refid=0EM08000007PCaC" title="Cloudinary" alt="Cloudinary" width="150" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cloudinary_logo_blue_0720_2x.png" title="Cloudinary" alt="Cloudinary" width="150" height="40"/>
   <!-- New images -->
   <img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png" title="pm2" alt="Cloudinary" width="150" height="40"/>&nbsp;
