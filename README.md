@@ -56,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://sofacto.force.com/support/servlet/rtaImage?eid=ka008000000dkuz&feoid=00N1p00000JI0JP&refid=0EM08000007PCaC" title="Cloudinary" alt="Cloudinary" width="150" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cloudinary_logo_blue_0720_2x.png" title="Cloudinary" alt="Cloudinary" width="150" height="40"/>
   <!-- New images -->
-  <img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png" title="pm2" alt="Cloudinary" width="150" height="40"/>&nbsp;
   <img src="https://i0.wp.com/www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png?w=500&ssl=1" title="Django" alt="Django" width="150" height="150"/>&nbsp;
   <img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" title="Flask" alt="Flask" width="150" height="150"/>&nbsp;
   <img src="https://www.adveris.fr/wp-content/uploads/2024/02/1_oY6KBVYWqIcn6WaVHuh4hw.png" title="Flask" alt="Flask" width="150" height="150"/>&nbsp;
