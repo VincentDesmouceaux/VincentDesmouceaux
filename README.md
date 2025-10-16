@@ -59,6 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://i0.wp.com/www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png?w=500&ssl=1" title="Django" alt="Django" width="150" height="150"/>&nbsp;
   <img src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg" title="Flask" alt="Flask" width="150" height="150"/>&nbsp;
   <img src="https://www.adveris.fr/wp-content/uploads/2024/02/1_oY6KBVYWqIcn6WaVHuh4hw.png" title="Flask" alt="Flask" width="150" height="150"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1200px-Sql_data_base_with_logo.svg.png" width="150" height="150"/>&nbsp;
   
 </div>
 
