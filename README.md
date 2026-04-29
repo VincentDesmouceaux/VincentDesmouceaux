@@ -102,7 +102,7 @@
         <img src="https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=38bdf8" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square&logo=numpy&logoColor=38bdf8" alt="NumPy"/>
       </p>
-      <a href="https://p01--thermo--5rcbdjs6tgqv.code.run/">
+      <a href="https://p01--thermovision-video-api--5rcbdjs6tgqv.code.run/">
         <img src="https://img.shields.io/badge/Live%20App-38bdf8?style=for-the-badge&logo=rocket&logoColor=0f172a" alt="Live app"/>
       </a>
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7405399006891159552/">
