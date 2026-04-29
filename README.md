@@ -91,7 +91,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌡️ ThermoVision</h3>
-      <a href="https://tinyurl.com/7djxm9ux">
+      <a href="https://tinyurl.com/7djxm9ux"/>
         <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Airport_Thermographic_Camera.jpg" width="100%" height="215" alt="ThermoVision project" />
       </a>
       <br/><br/>
@@ -102,7 +102,9 @@
         <img src="https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=38bdf8" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square&logo=numpy&logoColor=38bdf8" alt="NumPy"/>
       </p>
-      <a href="https://p01--thermo--5rcbdjs6tgqv.code.run/">
+      <a href="https://tinyurl.com/7djxm9ux
+
+/">
         <img src="https://img.shields.io/badge/Live%20App-38bdf8?style=for-the-badge&logo=rocket&logoColor=0f172a" alt="Live app"/>
       </a>
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7405399006891159552/">
