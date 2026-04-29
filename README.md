@@ -91,7 +91,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌡️ ThermoVision</h3>
-      <a href="p01--thermovision-video-api--5rcbdjs6tgqv.code.run/">
+      <a href="https://p01--thermovision-video-api--5rcbdjs6tgqv.code.run/">
         <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Airport_Thermographic_Camera.jpg" width="100%" height="215" alt="ThermoVision project" />
       </a>
       <br/><br/>
