@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,45:1e3a8a,100:38bdf8&text=Vincent%20Desmouceaux&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Machine%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full%20Stack%20Development&descAlignY=55&animation=fadeIn" width="100%" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:0f172a,45:1e3a8a,100:38bdf8&text=Vincent%20Desmouceaux&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Machine%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full%20Stack%20Development&descAlignY=56&animation=fadeIn" width="100%" alt="Header banner" />
 </div>
 
 <h1 align="center">
@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <b>Machine Learning • Computer Vision • Full Stack</b><br/>
+  <b>Machine Learning • Computer Vision • Full Stack Development</b><br/>
   Based in Paris, France 🇫🇷
 </p>
 
@@ -52,15 +52,15 @@
   <tr>
     <td width="33%" valign="top">
       <h3>🧠 Machine Learning</h3>
-      I work on data preparation, predictive modeling, model evaluation and applied AI workflows.
+      Data preparation, predictive modeling, model evaluation, feature engineering and applied AI workflows.
     </td>
     <td width="33%" valign="top">
       <h3>👁️ Computer Vision</h3>
-      I build visual analysis workflows using Python, OpenCV, NumPy and image/video processing techniques.
+      Visual analysis workflows using Python, OpenCV, NumPy and image/video processing techniques.
     </td>
     <td width="33%" valign="top">
       <h3>⚙️ Full Stack</h3>
-      I design modern interfaces, backend APIs and deployable digital products from prototype to production.
+      Modern interfaces, backend APIs, automation systems and deployable digital products.
     </td>
   </tr>
 </table>
@@ -91,21 +91,20 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌡️ ThermoVision</h3>
-      <a href="https://tinyurl.com/7djxm9ux"/>
-        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Airport_Thermographic_Camera.jpg" width="100%" height="215" alt="ThermoVision project" />
-      </a>
-      <br/><br/>
-      Device-aware thermal-style video processing workflow with a Python, OpenCV and NumPy core, including downloadable processed output.
-      <br/><br/>
+      <p>
+        Python/OpenCV video processing API with a web interface for pseudo-thermal heatmaps, hotspot detection and downloadable processed clips.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=38bdf8" alt="Python"/>
         <img src="https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=38bdf8" alt="OpenCV"/>
         <img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square&logo=numpy&logoColor=38bdf8" alt="NumPy"/>
+        <img src="https://img.shields.io/badge/Northflank-0f172a?style=flat-square&logo=cloudflare&logoColor=38bdf8" alt="Northflank"/>
       </p>
-      <a href="https://tinyurl.com/7djxm9ux
-
-/">
+      <a href="https://tinyurl.com/7djxm9ux">
         <img src="https://img.shields.io/badge/Live%20App-38bdf8?style=for-the-badge&logo=rocket&logoColor=0f172a" alt="Live app"/>
+      </a>
+      <a href="https://github.com/VincentDesmouceaux/thermovision-video-api">
+        <img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
       </a>
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7405399006891159552/">
         <img src="https://img.shields.io/badge/LinkedIn%20Post-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn post"/>
@@ -113,15 +112,13 @@
     </td>
     <td width="50%" valign="top">
       <h3>✈️ Kerosene Optimisator</h3>
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7401430783539847169/">
-        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Airbus_A320_family.JPG" width="100%" height="215" alt="Kerosene Optimisator project" />
-      </a>
-      <br/><br/>
-      Aviation simulation comparing aircraft fuel burn under changing wind conditions, built with Python, Flask, Matplotlib, Docker and Northflank.
-      <br/><br/>
+      <p>
+        Aviation simulation comparing aircraft fuel burn under changing wind conditions, built with Python, Flask, Matplotlib, Docker and Northflank.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=38bdf8" alt="Python"/>
         <img src="https://img.shields.io/badge/Flask-0f172a?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/Matplotlib-0f172a?style=flat-square&logo=plotly&logoColor=38bdf8" alt="Matplotlib"/>
         <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8" alt="Docker"/>
       </p>
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7401430783539847169/">
@@ -155,8 +152,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,vue" height="52" alt="Frontend icons" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Axios-0f172a?style=for-the-badge&logo=axios&logoColor=38bdf8" alt="Axios"/>
   <img src="https://img.shields.io/badge/Responsive%20UI-0f172a?style=for-the-badge&logo=figma&logoColor=38bdf8" alt="Responsive UI"/>
+  <img src="https://img.shields.io/badge/API%20Integration-0f172a?style=for-the-badge&logo=axios&logoColor=38bdf8" alt="API Integration"/>
 </div>
 
 ### ⚙️ Backend, Database & APIs
@@ -230,8 +227,8 @@
       <h3>🧩 Backend Developer / Traffic Manager</h3>
       <b>TradeSpotting — Paris</b><br/>
       <sub>Apprenticeship • 2023 – 2024</sub><br/><br/>
-      • Technical implementation of tracking plans and marketing integrations.<br/>
-      • Hands-on with GTM, Meta, Xandr, TikTok and internal tools.
+      • Implemented tracking plans and marketing integrations.<br/>
+      • Worked with GTM, Meta, Xandr, TikTok and internal tools.
     </td>
   </tr>
 </table>
@@ -251,43 +248,28 @@
     <tr>
       <td align="center" width="20%">
         <a href="https://deliveroo-by-vincent.netlify.app/">
-          <img src="https://cdn.worldvectorlogo.com/logos/deliveroo-logo.svg" height="54" alt="Deliveroo"/>
+          <img src="https://img.shields.io/badge/Deliveroo-Frontend%20Clone-00CCBC?style=for-the-badge&logo=deliveroo&logoColor=white" alt="Deliveroo"/>
         </a>
-        <br/><br/>
-        <a href="https://deliveroo-by-vincent.netlify.app/"><b>Deliveroo</b></a><br/>
-        <sub>Frontend clone</sub>
       </td>
       <td align="center" width="20%">
         <a href="https://tripadvisor-by-vincent.netlify.app/">
-          <img src="https://cdn.worldvectorlogo.com/logos/tripadvisor.svg" height="54" alt="Tripadvisor"/>
+          <img src="https://img.shields.io/badge/Tripadvisor-Frontend%20Clone-34E0A1?style=for-the-badge&logo=tripadvisor&logoColor=0f172a" alt="Tripadvisor"/>
         </a>
-        <br/><br/>
-        <a href="https://tripadvisor-by-vincent.netlify.app/"><b>Tripadvisor</b></a><br/>
-        <sub>Frontend clone</sub>
       </td>
       <td align="center" width="20%">
         <a href="https://main--flix-net-vd.netlify.app/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" height="54" alt="Netflix"/>
+          <img src="https://img.shields.io/badge/Netflix-Frontend%20Clone-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix"/>
         </a>
-        <br/><br/>
-        <a href="https://main--flix-net-vd.netlify.app/"><b>Netflix</b></a><br/>
-        <sub>Frontend clone</sub>
       </td>
       <td align="center" width="20%">
         <a href="https://vinted-vincent.netlify.app/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Vinted_logo.png" height="54" alt="Vinted"/>
+          <img src="https://img.shields.io/badge/Vinted-Marketplace%20UI-007782?style=for-the-badge&logo=vinted&logoColor=white" alt="Vinted"/>
         </a>
-        <br/><br/>
-        <a href="https://vinted-vincent.netlify.app/"><b>Vinted</b></a><br/>
-        <sub>Marketplace UI</sub>
       </td>
       <td align="center" width="20%">
         <a href="https://rawg-by-vincent.netlify.app/">
-          <img src="https://media.rawg.io/static/og/cover.jpg" height="54" alt="RAWG"/>
+          <img src="https://img.shields.io/badge/RAWG-Gaming%20API%20App-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8" alt="RAWG"/>
         </a>
-        <br/><br/>
-        <a href="https://rawg-by-vincent.netlify.app/"><b>RAWG</b></a><br/>
-        <sub>Gaming API app</sub>
       </td>
     </tr>
   </table>
@@ -299,16 +281,14 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://a0.muscache.com/im/pictures/airbnb-platform-assets/AirbnbPlatformAssets-search-bar-icons/original/4aae4ed7-5939-4e76-b100-e69440ebeae4.png" height="54" alt="Airbnb Mobile"/>
+        <img src="https://img.shields.io/badge/Airbnb%20Mobile-React%20Native-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white" alt="Airbnb Mobile"/>
         <br/><br/>
-        <b>Airbnb Mobile</b><br/>
-        <sub>React Native interface</sub>
+        <sub>Mobile interface project</sub>
       </td>
       <td align="center" width="50%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" height="54" alt="IMDb Mobile"/>
+        <img src="https://img.shields.io/badge/IMDb%20Mobile-React%20Native-F5C518?style=for-the-badge&logo=imdb&logoColor=0f172a" alt="IMDb Mobile"/>
         <br/><br/>
-        <b>IMDb Mobile</b><br/>
-        <sub>React Native interface</sub>
+        <sub>Mobile interface project</sub>
       </td>
     </tr>
   </table>
