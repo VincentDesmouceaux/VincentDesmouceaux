@@ -20,17 +20,20 @@
 </p>
 
 <div align="center">
-  <a href="https://vd-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/VincentDesmouceaux">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vincent-desmouceaux-277b3b244/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/>
-  </a>
   <a href="mailto:desmontvincent@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="34" width="34" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vincent-desmouceaux-277b3b244/">
+    <img src="https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg" height="34" width="34" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vd-portfolio.netlify.app/">
+    <img src="https://cdn.simpleicons.org/vercel/38bdf8" height="34" width="34" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/VincentDesmouceaux">
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="34" width="34" alt="GitHub"/>
   </a>
 </div>
 
@@ -140,40 +143,47 @@
 ### 🧠 Machine Learning & Data
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="52" alt="Machine learning icons" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=38bdf8" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=38bdf8" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=38bdf8" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0f172a?style=for-the-badge&logo=plotly&logoColor=38bdf8" alt="Matplotlib"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="52" alt="Python, TensorFlow and OpenCV icons" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/38bdf8" height="52" width="52" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/38bdf8" height="52" width="52" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/38bdf8" height="52" width="52" alt="Scikit-Learn" />
+  &nbsp;&nbsp;
+  <img src="https://miro.medium.com/1*I0t-fLjyUZ3XnJLRW1B-uQ.png" height="52" alt="Matplotlib" />
 </div>
 
 ### 🖥️ Frontend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,vue" height="52" alt="Frontend icons" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Axios-0f172a?style=for-the-badge&logo=axios&logoColor=38bdf8" alt="Axios"/>
-  <img src="https://img.shields.io/badge/Responsive%20UI-0f172a?style=for-the-badge&logo=figma&logoColor=38bdf8" alt="Responsive UI"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,vue" height="52" alt="HTML, CSS, JavaScript, React, Redux and Vue icons" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/axios/38bdf8" height="52" width="52" alt="Axios" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/38bdf8" height="52" width="52" alt="Responsive UI" />
 </div>
 
 ### ⚙️ Backend, Database & APIs
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,php,mongodb,mysql" height="52" alt="Backend icons" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/API%20Design-0f172a?style=for-the-badge&logo=fastapi&logoColor=38bdf8" alt="API Design"/>
-  <img src="https://img.shields.io/badge/Automation-0f172a?style=for-the-badge&logo=pm2&logoColor=38bdf8" alt="Automation"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,php,mongodb,mysql" height="52" alt="Node.js, Express, Django, Flask, PHP, MongoDB and MySQL icons" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/38bdf8" height="52" width="52" alt="API Design" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pm2/38bdf8" height="52" width="52" alt="Automation" />
 </div>
 
 ### 🚀 Tools, Deployment & Workflow
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,netlify" height="52" alt="Tools icons" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Northflank-0f172a?style=for-the-badge&logo=cloudflare&logoColor=38bdf8" alt="Northflank"/>
-  <img src="https://img.shields.io/badge/Cloudinary-0f172a?style=for-the-badge&logo=cloudinary&logoColor=38bdf8" alt="Cloudinary"/>
-  <img src="https://img.shields.io/badge/PM2-0f172a?style=for-the-badge&logo=pm2&logoColor=38bdf8" alt="PM2"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,netlify" height="52" alt="Git, GitHub, Docker, VS Code, Postman and Netlify icons" />
+  &nbsp;&nbsp;
+  <img src="https://cdn-1.webcatalog.io/catalog/northflank/northflank-icon-filled-256.png?v=1714775281587" height="52" width="52" alt="Northflank" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cloudinary/38bdf8" height="52" width="52" alt="Cloudinary" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pm2/38bdf8" height="52" width="52" alt="PM2" />
 </div>
 
 <br/>
@@ -245,71 +255,35 @@
 ### 🌐 Web Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <a href="https://deliveroo-by-vincent.netlify.app/">
-          <img src="https://cdn.worldvectorlogo.com/logos/deliveroo-logo.svg" height="54" alt="Deliveroo"/>
-        </a>
-        <br/><br/>
-        <a href="https://deliveroo-by-vincent.netlify.app/"><b>Deliveroo</b></a><br/>
-        <sub>Frontend clone</sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://tripadvisor-by-vincent.netlify.app/">
-          <img src="https://cdn.worldvectorlogo.com/logos/tripadvisor.svg" height="54" alt="Tripadvisor"/>
-        </a>
-        <br/><br/>
-        <a href="https://tripadvisor-by-vincent.netlify.app/"><b>Tripadvisor</b></a><br/>
-        <sub>Frontend clone</sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://main--flix-net-vd.netlify.app/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" height="54" alt="Netflix"/>
-        </a>
-        <br/><br/>
-        <a href="https://main--flix-net-vd.netlify.app/"><b>Netflix</b></a><br/>
-        <sub>Frontend clone</sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://vinted-vincent.netlify.app/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Vinted_logo.png" height="54" alt="Vinted"/>
-        </a>
-        <br/><br/>
-        <a href="https://vinted-vincent.netlify.app/"><b>Vinted</b></a><br/>
-        <sub>Marketplace UI</sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://rawg-by-vincent.netlify.app/">
-          <img src="https://media.rawg.io/static/og/cover.jpg" height="54" alt="RAWG"/>
-        </a>
-        <br/><br/>
-        <a href="https://rawg-by-vincent.netlify.app/"><b>RAWG</b></a><br/>
-        <sub>Gaming API app</sub>
-      </td>
-    </tr>
-  </table>
+  <a href="https://deliveroo-by-vincent.netlify.app/">
+    <img src="https://cdn.worldvectorlogo.com/logos/deliveroo-logo.svg" height="64" alt="Deliveroo"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tripadvisor-by-vincent.netlify.app/">
+    <img src="https://cdn.worldvectorlogo.com/logos/tripadvisor.svg" height="64" alt="Tripadvisor"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://main--flix-net-vd.netlify.app/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" height="64" alt="Netflix"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vinted-vincent.netlify.app/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Vinted_logo.png" height="64" alt="Vinted"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://rawg-by-vincent.netlify.app/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxTh0EandqP7vocgsiIwSh8_s0cY7SHMlC8g&amp;s" height="64" alt="RAWG"/>
+  </a>
 </div>
+
+<br/>
 
 ### 📱 Mobile Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://a0.muscache.com/im/pictures/airbnb-platform-assets/AirbnbPlatformAssets-search-bar-icons/original/4aae4ed7-5939-4e76-b100-e69440ebeae4.png" height="54" alt="Airbnb Mobile"/>
-        <br/><br/>
-        <b>Airbnb Mobile</b><br/>
-        <sub>React Native interface</sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" height="54" alt="IMDb Mobile"/>
-        <br/><br/>
-        <b>IMDb Mobile</b><br/>
-        <sub>React Native interface</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/1280px-Airbnb_Logo_B%C3%A9lo.svg.png" height="64" alt="Airbnb Mobile"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" height="64" alt="IMDb Mobile"/>
 </div>
 
 <br/>
@@ -341,16 +315,19 @@
 
 <div align="center">
   <a href="mailto:desmontvincent@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="34" width="34" alt="Email"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vincent-desmouceaux-277b3b244/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/>
+    <img src="https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg" height="34" width="34" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vd-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio"/>
+    <img src="https://cdn.simpleicons.org/vercel/38bdf8" height="34" width="34" alt="Portfolio"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/VincentDesmouceaux">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="34" width="34" alt="GitHub"/>
   </a>
 </div>
 
@@ -359,3 +336,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:1e3a8a,100:38bdf8" width="100%" alt="Footer banner" />
 </div>
+'''
+
+
